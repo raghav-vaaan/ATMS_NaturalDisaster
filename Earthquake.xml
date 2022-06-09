@@ -1,0 +1,8 @@
+<data>
+   <items>
+	  <item Range="SQL_SERVER">200000</item>
+	  <item SendAPI="SQL_USER">http://192.168.0.130:8081/VaaaN/NaturalDisasterDataPost</item>
+	  <item ATMSlat="SQL_PASSWORD">28.41354</item>
+	  <item ATMSlong="CYCLE_TIME">77.52521</item>
+   </items>
+</data>
